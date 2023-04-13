@@ -64,6 +64,7 @@
         max-width: 500px;
         margin:auto; /*por algum motivo o p virou um bloco a partir do width
         500 então usei o margin auto para centralizar*/
+        padding-bottom: 50px;
         padding-right: 10px;
         padding-left: 10px;
         text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315);
